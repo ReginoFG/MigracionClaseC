@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigracionClase", "MigracionClase.csproj", "{BED332C3-DD42-4139-BD69-6890A05B1072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\AccesoDatos\AccesoDatos.csproj", "{AD29637B-FACC-4128-839D-68B3D14BC6E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED332C3-DD42-4139-BD69-6890A05B1072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED332C3-DD42-4139-BD69-6890A05B1072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED332C3-DD42-4139-BD69-6890A05B1072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED332C3-DD42-4139-BD69-6890A05B1072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD29637B-FACC-4128-839D-68B3D14BC6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD29637B-FACC-4128-839D-68B3D14BC6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD29637B-FACC-4128-839D-68B3D14BC6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD29637B-FACC-4128-839D-68B3D14BC6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828C1FB0-42B7-41F9-A679-033362601466}
+	EndGlobalSection
+EndGlobal
